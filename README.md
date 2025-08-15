@@ -1,7 +1,9 @@
 <h1 align="center">Olá 👋 Meu nome é Hudson Silva</h1>
 <h3 align="center">Estou começando o caminho para ser um desenvolvedor Python</h3>
 
- ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Hst012&show_icons=true&theme=radical)
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hst012&show_icons=true&theme=radical" />
+</p>
 
 - 🌱 Estou aprendendo atualmente **Python e GitHub**
 
